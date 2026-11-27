@@ -1,0 +1,6 @@
+playwright
+openpyxl
+pillow
+uiautomation
+comtypes
+pyinstaller

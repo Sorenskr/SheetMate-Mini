@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+build/
+dist/
+*.spec.bak
+config.json
+_sheetmate_*.png
+browser_data/
+run.log*
+error_*.log
